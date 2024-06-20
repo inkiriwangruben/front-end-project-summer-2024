@@ -1,3 +1,3 @@
 console.log("hello git")
 console.log("latihan git")
-console.log("latiha")
+console.log("latihannnnnnnnn")
